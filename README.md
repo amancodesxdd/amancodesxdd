@@ -29,7 +29,7 @@
 
 ## 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amancodesxdd&repo=first-repo&theme=radical)](https://github.com/amancodesxdd/rename-file-py)
+[![File Renaming Automation](https://github-readme-stats.vercel.app/api/pin/?username=amancodesxdd&repo=first-repo&theme=radical)](https://github.com/amancodesxdd/rename-file-py)
 
 
 ⭐️ From [amancodesxdd](https://github.com/amancodesxdd)
