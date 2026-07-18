@@ -1,35 +1,80 @@
-# 👋 Hi, I'm Aman Kumar
+<h1 align="center">Hi 👋, I'm Aman</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/amancodesxdd?style=social)](https://github.com/amancodesxdd)
+<h3 align="center">A passionate B.Tech student from Earth </h3>
 
-## 🚀 About Me
-- 🔭 I'm currently learning **Java** and **Spring Boot**
-- 🔥 I have knowledge on **Python** and **C** 
-- 🌱 Exploring **Web Development** and **DSA**
-- 💬 Ask me about: **Java, Git, GitHub, Python and Spring Boot**
-- ⚡ I push code to GitHub every day! 💻
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Second-Year+B.Tech+Student;Learning+C+and+Java;Future+Full-Stack+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rosefishh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/amancodesxdd?label=Followers&style=for-the-badge&logo=github" />
+  <!-- <img src="https://img.shields.io/github/forks/amancodesxdd?style=for-the-badge&logo=github" /> -->
+  <img src="https://img.shields.io/github/stars/amancodesxdd?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repos/amancodesxdd
+
+
+
+
+-  Currently learning **C Programming**, **Java**, and **Git & GitHub**
+-  Next on my roadmap: **DSA**, **Web Development**, and **Open Source**
+-  I enjoy building projects and learning by doing
+-  Always curious to learn new technologies
+
+---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
+</p>
 
-## 📈 GitHub Stats
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amancodesxdd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amancodesxdd&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amancodesxdd&theme=radical)](https://git.io/streak-stats)
-
-## 📌 Pinned Projects
-
-[![File Renaming Automation](https://github-readme-stats.vercel.app/api/pin/?username=amancodesxdd&repo=first-repo&theme=radical)](https://github.com/amancodesxdd/rename-file-py)
+---
 
 
-⭐️ From [amancodesxdd](https://github.com/amancodesxdd)
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amancodesxdd&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌟 Currently Working On
+
+- 📚 Improving my programming fundamentals
+- 💡 Building beginner-friendly projects
+- 🌐 Learning Web Development
+- 🚀 Growing my GitHub profile
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master C Programming
+- ✅ Learn Java and DSA
+- ✅ Build exciting projects
+- ✅ Contribute to Open Source
+- ✅ Stay consistent on GitHub
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/rosefishh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Do or Die."</i> 
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Have a great day! ⭐
+</p>
