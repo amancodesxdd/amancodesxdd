@@ -12,14 +12,15 @@
   <!-- <img src="https://img.shields.io/github/forks/amancodesxdd?style=for-the-badge&logo=github" /> -->
   <img src="https://img.shields.io/github/stars/amancodesxdd?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/repos/amancodesxdd
-
 ---
 
 
--  Currently learning **C Programming**, **Java**, and **Git & GitHub**
--  Next on my roadmap: **DSA**, **Web Development**, and **Open Source**
--  I enjoy building projects and learning by doing
--  Always curious to learn new technologies
+-  Second-Year B.Tech Student
+-  Currently learning *C Programming, **Java, and **Git & GitHub*
+-  Exploring *Data Structures & Algorithms, **Web Development, and **Open Source*
+-  Passionate about coding, problem-solving, and building projects
+-  Learning something new every day
+-  Goal: Become a Full-Stack Software Developer
 
 ---
 
