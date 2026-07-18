@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Aman
+# 👋 Hi, I'm Aman Kumar
 
 [![GitHub followers](https://img.shields.io/github/followers/amancodesxdd?style=social)](https://github.com/amancodesxdd)
 
 ## 🚀 About Me
 - 🔭 I'm currently learning **Java** and **Spring Boot**
-- 🌱 Exploring **Web Development** and **Cloud Computing**
-- 💬 Ask me about: **Java, Git, GitHub, and Spring Boot**
-- ⚡ Fun fact: I push code to GitHub every day! 💻
+- 🔥 I have knowledge on **Python** and **C** 
+- 🌱 Exploring **Web Development** and **DSA**
+- 💬 Ask me about: **Java, Git, GitHub, Python and Spring Boot**
+- ⚡ I push code to GitHub every day! 💻
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +29,7 @@
 
 ## 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amancodesxdd&repo=first-repo&theme=radical)](https://github.com/amancodesxdd/first-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amancodesxdd&repo=first-repo&theme=radical)](https://github.com/amancodesxdd/rename-file-py)
 
 
 ⭐️ From [amancodesxdd](https://github.com/amancodesxdd)
