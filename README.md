@@ -1,54 +1,39 @@
-# amancodesxdd
 
-> Memorable developer positioning.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **amancodesxdd**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=github-dark" alt="amancodesxdd hero section" />
   </picture>
 </p>
-## About Me
-Shapes the short profile story and positioning.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=amancodesxdd&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/about?username=amancodesxdd&theme=github-dark" alt="amancodesxdd about section" />
   </picture>
 </p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amancodesxdd&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=amancodesxdd&theme=github-dark" alt="amancodesxdd stack section" />
   </picture>
 </p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amancodesxdd&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stats?username=amancodesxdd&theme=github-dark" alt="amancodesxdd stats section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
+
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amancodesxdd&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=amancodesxdd&theme=github-dark" alt="amancodesxdd projects section" />
   </picture>
-</p>
-## Heatmap
-Animated year-long contribution calendar.
-## Connect
-Contact and social links will appear here.
+</p> -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=amancodesxdd&theme=github-dark&mode=light" />
@@ -56,4 +41,3 @@ Contact and social links will appear here.
   </picture>
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
