@@ -1,28 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+[![amancodesxdd's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=satan&style=aura)](https://www.gitskins.com/showcase/amancodesxdd?skin=inferno)
 
-<h3 align="center">A passionate B.Tech student from Earth </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Second-Year+B.Tech+Student;Learning+C+and+Java;Future+Full-Stack+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rosefishh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/amancodesxdd?label=Followers&style=for-the-badge&logo=github" />
-  <!-- <img src="https://img.shields.io/github/forks/amancodesxdd?style=for-the-badge&logo=github" /> -->
-  <img src="https://img.shields.io/github/stars/amancodesxdd?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/repos/amancodesxdd
----
-
-
--  Second-Year B.Tech Student
--  Currently learning *C Programming, **Java, and **Git & GitHub*
--  Exploring *Data Structures & Algorithms, **Web Development, and **Open Source*
--  Passionate about coding, problem-solving, and building projects
--  Learning something new every day
--  Goal: Become a Full-Stack Software Developer
-
----
 
 ## 🛠️ Tech Stack
 
