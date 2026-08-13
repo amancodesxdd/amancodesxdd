@@ -1,58 +1,59 @@
-[![amancodesxdd's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=satan&style=aura)](https://www.gitskins.com/showcase/amancodesxdd?skin=inferno)
+# amancodesxdd
 
+> Memorable developer positioning.
 
-## 🛠️ Tech Stack
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
-</p>
-
----
-
-
-
-
-## 🔥 GitHub Streak
-
+## Header
+> Editing this section in the inspector.
+Hi, I'm **amancodesxdd**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amancodesxdd&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=amancodesxdd&theme=github-dark" alt="amancodesxdd hero section" />
+  </picture>
 </p>
-
----
-
-## 🌟 Currently Working On
-
-- 📚 Improving my programming fundamentals
-- 💡 Building beginner-friendly projects
-- 🌐 Learning Web Development
-- 🚀 Growing my GitHub profile
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master C Programming
-- ✅ Learn Java and DSA
-- ✅ Build exciting projects
-- ✅ Contribute to Open Source
-- ✅ Stay consistent on GitHub
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://github.com/rosefishh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
+## About Me
+Shapes the short profile story and positioning.
 <p align="center">
-  <i>"Do or Die."</i> 
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=amancodesxdd&theme=github-dark" alt="amancodesxdd about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=amancodesxdd&theme=github-dark" alt="amancodesxdd stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=amancodesxdd&theme=github-dark" alt="amancodesxdd stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=amancodesxdd&theme=github-dark" alt="amancodesxdd projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=amancodesxdd&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=amancodesxdd&theme=github-dark" alt="amancodesxdd social section" />
+  </picture>
 </p>
 
-<p align="center">
-⭐ Thanks for visiting my profile! Have a great day! ⭐
-</p>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
